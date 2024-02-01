@@ -14,6 +14,8 @@ Elixr AI is a cutting-edge AI application that leverages Google's Gemini AI mode
 - **Preset Chat Role Prompts:** Benefit from pre-set chat prompts for a quick start.
 - **Data Only Stored in Your Device:** Ensure your privacy with locally stored data.
 - **Focused on Privacy:** Elixr AI prioritizes the security and confidentiality of your data.
+- **Speech Output:** Listen to the results with Elixr AI's speech output feature.
+- **Copy or Share Results:** Easily copy or share the AI-generated results with others.
 
 ## Download
 
