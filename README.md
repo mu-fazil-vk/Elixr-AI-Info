@@ -74,7 +74,7 @@ This handy table lists all the methods you can use to install Elixr AI:
     <td>Github Release</td>
     <td>
       <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/latest">
-        <img width="220" alt="GitHub Release" src="https://raw.githubusercontent.com/mu-fazil-vk/Elixr-AI-Info/main/assets/get-it-on-github.png">
+        <img width="220" alt="GitHub Release" src="https://github.com/mu-fazil-vk/Elixr-AI-Info/blob/main/Assets/get-it-on-github.png">
       </a>
     </td>
   </tr>
