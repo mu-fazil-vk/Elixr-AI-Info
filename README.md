@@ -43,10 +43,9 @@ This handy table lists all the methods you can use to install Elixr AI:
     <th>Package/Installation Method</th>
   </tr>
   <tr>
-    <td>Windows</td>
+    <td>Web</td>
     <td>
-      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.0/elixr_ai-setup.exe">
-        <img width="220" alt="Windows Download" src="https://get.todoist.help/hc/article_attachments/4403191721234/WindowsButton.svg">
+      <a href="https://Elixr-ai.web.app">https://Elixer-AI.web.app
       </a>
   </tr>
   <tr>
@@ -55,7 +54,15 @@ This handy table lists all the methods you can use to install Elixr AI:
       <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.0/Elixr-AI.apk">
         <img width="220" alt="APK download" src="https://user-images.githubusercontent.com/114044633/223920025-83687de0-e463-4c5d-8122-e06e4bb7d40c.png">
       </a>
+      <p> For specific devices: <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/latest">Release</a></p>
     </td>
+  </tr>
+  <tr>
+    <td>Windows</td>
+    <td>
+      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.0/elixr_ai-setup.exe">
+        <img width="220" alt="Windows Download" src="https://get.todoist.help/hc/article_attachments/4403191721234/WindowsButton.svg">
+      </a>
   </tr>
   <tr>
     <td>Debian/Ubuntu</td>
