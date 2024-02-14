@@ -17,11 +17,10 @@ Elixr AI is a cutting-edge AI application that leverages Google's Gemini AI mode
 
 ## 🌃 Features
 
-- **Modern UI:** Enjoy a sleek and contemporary user interface for a delightful experience.
-- **Easy Interface:** Navigate effortlessly with a user-friendly design.
+- **Ad-Free:** Experience Elixr AI without any intrusive advertisements.
+- **Cross-platform support:** Available for Androis, Web, Windows, Linux
 - **Chat Support:** Engage in interactive conversations with Elixr AI.
 - **Image-Based Chat:** Seamlessly communicate through images for a richer interaction.
-- **Ad-Free:** Experience Elixr AI without any intrusive advertisements.
 - **Fully Free:** Utilize all features without any cost or subscription fees.
 - **No Limitations:** Enjoy unrestricted access to the capabilities of Elixr AI.
 - **Preset Chat Role Prompts:** Benefit from pre-set chat prompts for a quick start.
@@ -29,6 +28,8 @@ Elixr AI is a cutting-edge AI application that leverages Google's Gemini AI mode
 - **Focused on Privacy:** Elixr AI prioritizes the security and confidentiality of your data.
 - **Speech Output:** Listen to the results with Elixr AI's speech output feature.
 - **Copy or Share Results:** Easily copy or share the AI-generated results with others.
+- **Modern UI:** Enjoy a sleek and contemporary user interface for a delightful experience.
+- **Easy Interface:** Navigate effortlessly with a user-friendly design.
 
 and much more...
 Check it yourself :)
