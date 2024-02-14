@@ -93,7 +93,7 @@ Have a feature in mind that would enhance your Elixr AI experience? Share your i
 
 <!-- ## Contribute
 
-Contributions are welcome. Please read our [contributing guidelines](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) before contributing. -->
+Contributions are welcome. Please read our [contributing guidelines](https://github.com/mu-fazil-vk/Elixr-AI-Info/blob/main/CONTRIBUTING.md) before contributing. -->
 
 ## Facing any Issue?
 
