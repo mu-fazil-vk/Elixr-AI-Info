@@ -1,8 +1,8 @@
-# Elixr AI
+<div align="center">
 
-<video autoplay loop muted playsinline width="320" height="240" controls>
-  <source src="https://github.com/mu-fazil-vk/Elixr-AI-Info/raw/main/Assets/elixr-ai.mp4" type="video/mp4">
-</video>
+  # Elixr AI
+
+![Elixr-AI Banner](https://github.com/mu-fazil-vk/Elixr-AI-Info/blob/main/Assets/ELIXR-BANNER.jpg)
 
 Elixr AI is a cutting-edge AI application that leverages Google's Gemini AI model to provide a seamless and intuitive experience. With a focus on modern UI, easy navigation, and privacy, Elixr AI offers a range of features to enhance your AI interaction.
 
@@ -11,6 +11,8 @@ Elixr AI is a cutting-edge AI application that leverages Google's Gemini AI mode
 ### Don't forget to :star: the repo
 
 [![GitHub stars](https://img.shields.io/github/stars/mu-fazil-vk/Elixr-AI-Info.svg?style=social&label=Star)](https://github.com/mu-fazil-vk/Elixr-AI-Info) ![GitHub forks](https://img.shields.io/github/forks/mu-fazil-vk/Elixr-AI-Info.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/mu-fazil-vk.svg?style=social&label=Follow)
+
+</div>
 
 
 ## 🌃 Features
