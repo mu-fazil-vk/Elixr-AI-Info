@@ -52,7 +52,7 @@ This handy table lists all the methods you can use to install Elixr AI:
   <tr>
     <td>Android</td>
     <td>
-      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.0/Elixr-AI.apk">
+      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.1/Elixr-AI-release.apk">
         <img width="220" alt="APK download" src="https://user-images.githubusercontent.com/114044633/223920025-83687de0-e463-4c5d-8122-e06e4bb7d40c.png">
       </a>
       <p> For specific devices: <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/latest">Release</a></p>
@@ -61,14 +61,14 @@ This handy table lists all the methods you can use to install Elixr AI:
   <tr>
     <td>Windows</td>
     <td>
-      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.0/elixr_ai-setup.exe">
+      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.1/elixr_ai-setup.exe">
         <img width="220" alt="Windows Download" src="https://get.todoist.help/hc/article_attachments/4403191721234/WindowsButton.svg">
       </a>
   </tr>
   <tr>
     <td>Debian/Ubuntu</td>
     <td>
-      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.0/elixr_ai-v1.0.0_linux.deb">
+      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.1/elixr_ai-v1.0.1_linux.deb">
         <img width="220" alt="Debian/Ubuntu Download" src="https://user-images.githubusercontent.com/61944859/169097994-e92aff78-fd75-4c93-b6e4-f072a4b5a7ed.png">
       </a>
       <p>Then run: <code>sudo apt install ./elixr_ai-v1.0.0_linux.deb</code></p>
@@ -77,7 +77,7 @@ This handy table lists all the methods you can use to install Elixr AI:
   <tr>
     <td>Fedora/OpenSuse</td>
     <td>
-      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.0/elixr_ai-v1.0.0_linux.rpm">
+      <a href="https://github.com/mu-fazil-vk/Elixr-AI-Info/releases/download/v1.0.1/elixr_ai-v1.0.1_linux.rpm">
         <img width="220" alt="Fedora/OpenSuse Download" src="https://user-images.githubusercontent.com/61944859/223638350-5926b9da-04d6-4edd-931d-ad533e4ff058.png">
       </a>
       <p>For Fedora: <code>sudo dnf install ./elixr_ai-v1.0.0_linux.rpm</code></p>
