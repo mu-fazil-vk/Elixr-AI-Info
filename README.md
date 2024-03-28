@@ -6,11 +6,11 @@
 
 Elixr AI is a cutting-edge AI application that leverages Google's Gemini AI model to provide a seamless and intuitive experience. With a focus on modern UI, easy navigation, and privacy, Elixr AI offers a range of features to enhance your AI interaction.
 
-[![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/mu-fazil-vk/Elixr-AI-Info) ![Downloads](https://img.shields.io/github/downloads/mu-fazil-vk/Elixr-AI-Info/total)
+[![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/mu-fazil-vk/Elixr-AI-Info)
 
 ### Don't forget to :star: the repo
 
-[![GitHub stars](https://img.shields.io/github/stars/mu-fazil-vk/Elixr-AI-Info.svg?style=social&label=Star)](https://github.com/mu-fazil-vk/Elixr-AI-Info) ![GitHub forks](https://img.shields.io/github/forks/mu-fazil-vk/Elixr-AI-Info.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/mu-fazil-vk.svg?style=social&label=Follow)
+[![GitHub stars](https://img.shields.io/github/stars/mu-fazil-vk/Elixr-AI-Info.svg?style=social&label=Star)](https://github.com/mu-fazil-vk/Elixr-AI-Info) ![GitHub followers](https://img.shields.io/github/followers/mu-fazil-vk.svg?style=social&label=Follow)
 
 </div>
 
